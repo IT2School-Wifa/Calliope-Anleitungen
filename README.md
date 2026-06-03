@@ -1,6 +1,15 @@
 # Anleitungen für Calliope und MakeCode in IT2School
 
-Dieses Repository beinhaltet Benutzer-Tutorials für die Verwendung von Calliope mini mit der Entwicklungsumgebung MakeCode.
+Dieses Repository beinhaltet Benutzer-Tutorials für die Verwendung von [Calliope mini](https://calliope.cc) mit der Entwicklungsumgebung [MakeCode](https://makecode.calliope.cc/).
+Die Tutorials können unter folgender URL abgerufen werden:
+```
+https://makecode.calliope.cc/#tutorial:https://github.com/IT2School-Wifa/Calliope-Anleitungen/[DATEI_NAME]
+```
+
+Die Bearbeitung der Tutorials geschieht mit dem [Tutorial Tool von MakeCode](https://makecode.com/tutorial-tool).
+
+## Tutorials
+Dies ist eine Liste der verfügbaren Tutorials.
 
 
 ## Lizenz
