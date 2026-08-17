@@ -16,7 +16,7 @@ Tutorials werden nach folgendem Schema abgelegt:
 Modulname_Aufgabe_AB.md
 ```
 
-Übersetzungen können im Unterordner `_locales` abgespeichert werden
+Übersetzungen können unter dem gleichen Dateinamen im Unterordner `_locales` abgespeichert werden.
 
 ## Lizenz
 
