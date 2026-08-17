@@ -8,8 +8,6 @@ https://makecode.calliope.cc/#tutorial:https://github.com/IT2School-Wifa/Calliop
 
 Die Bearbeitung der Tutorials geschieht mit dem [Tutorial Tool von MakeCode](https://makecode.com/tutorial-tool).
 
-## Tutorials
-
 Tutorials werden nach folgendem Schema abgelegt:
 
 ```
@@ -17,6 +15,10 @@ Modulname_Aufgabe_AB.md
 ```
 
 Übersetzungen können unter dem gleichen Dateinamen im Unterordner `_locales` abgespeichert werden.
+
+## Tutorials
+
+Folgende Tutorials sind in diesem Repository abgelegt:
 
 ## Lizenz
 
