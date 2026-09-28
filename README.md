@@ -1,24 +1,25 @@
+# Anleitungen für Calliope und MakeCode in IT2School
 
-> Diese Seite bei [https://tobigr.github.io/Calliope-Anleitungen/](https://tobigr.github.io/Calliope-Anleitungen/) öffnen
+Dieses Repository beinhaltet Benutzer-Tutorials für die Verwendung von [Calliope mini](https://calliope.cc) mit der Entwicklungsumgebung [MakeCode](https://makecode.calliope.cc/).
+Die Tutorials können unter folgender URL abgerufen werden:
+```
+https://makecode.calliope.cc/#tutorial:https://github.com/IT2School-Wifa/Calliope-Anleitungen/[DATEI_NAME]
+```
 
-## Als Erweiterung verwenden
+Die Bearbeitung der Tutorials geschieht mit dem [Tutorial Tool von MakeCode](https://makecode.com/tutorial-tool).
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
+Tutorials werden nach folgendem Schema abgelegt:
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/tobigr/Calliope-Anleitungen** suchen und importieren
+```
+Modulname_Aufgabe_AB.md
+```
 
-## Dieses Projekt bearbeiten
+Übersetzungen können unter dem gleichen Dateinamen im Unterordner `_locales` abgespeichert werden.
 
-Um dieses Repository in MakeCode zu bearbeiten.
+## Tutorials
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/tobigr/Calliope-Anleitungen** ein und klicke auf Importieren
+Folgende Tutorials sind in diesem Repository abgelegt:
 
-#### Metadaten (verwendet für Suche, Rendering)
+## Lizenz
 
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Die Inhalte in diesem Projekt sind, sofern nicht anders angeegben, unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) lizenziert.
