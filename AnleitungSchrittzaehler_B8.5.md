@@ -1,4 +1,4 @@
-# B8.5 Schrittzähler
+# S6.5 Schrittzähler
 
 ## Schritt 1: Variable erstellen
 Ihr benötigt einen Platzhalter in eurem Programm, der sich die bisherigen Schritte merkt. Einen Platzhalter bezeichnet man in der Mathematik und in der Informatik auch als Variable. Erstellt nun eine unter dem Bereich Variablen. Wie viele Schritten sind beim Start in der Variablen gespeichert?

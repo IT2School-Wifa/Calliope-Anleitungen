@@ -1,4 +1,4 @@
-# B8.3 Kleine Programmieraufträge
+# S6.3 Kleine Programmieraufträge
 
 ## Aufgabe 1 - Wie heißt du? 
 Auf dem Calliope mini befindet sich eine LED-Matrix. Das sind die 

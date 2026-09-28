@@ -1,4 +1,4 @@
-# B8.5 Kompass
+# S6.5 Kompass
 
 ## Kalibrierung des Kompass 
 Der Kompass muss nach dem Einschalten kalibriert werden. Nutze dazu folgenden Baustein: 
