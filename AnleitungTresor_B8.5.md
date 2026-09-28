@@ -1,4 +1,4 @@
-# S6.5 Tresor mit Alarmanlagen
+# S6.5 Tresor mit Alarmanlage
 
 ## Schritt 1
 Der Calliope mini kann offene und geschlossene Stromkreise erkennen. Um einen Stromkreis zu schließen, muss beispielsweise Pin 0 mit Masse (-) verbunden werden. Den Kontakt stellt man am besten mit Krokodilklemmen. 
