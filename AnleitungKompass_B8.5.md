@@ -30,4 +30,4 @@ Die folgende Abbildung hilft euch den Winkel der Kompassausrichtung in Himmelsri
 
 Für die Programmierung sind die Blöcke aus dem Bereich Logik relevant. Denkt dran einen Text oder ähnliches für die Himmelsrichtungen auszugeben, damit man bei der Verwendung des Kompass die Himmelsrichtung erkennt.
 
-![Kompassausrichtung](/static/Kompassausrichtung.png)
+![Kompassausrichtung](https://github.com/TobiGr/Calliope-Anleitungen/blob/master/.docs/static/Kompassausrichtung.png)
