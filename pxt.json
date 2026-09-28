@@ -12,7 +12,8 @@
         "Anleitung_B8.3.md",
         "AnleitungKompass_B8.5.md",
         "AnleitungSchrittzaehler_B8.5.md",
-        "AnleitungTresor_B8.5.md"
+        "AnleitungTresor_B8.5.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
