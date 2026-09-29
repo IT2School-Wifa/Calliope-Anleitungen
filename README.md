@@ -6,7 +6,7 @@ Die Tutorials können unter folgender URL abgerufen werden:
 https://makecode.calliope.cc/#tutorial:https://github.com/IT2School-Wifa/Calliope-Anleitungen/[DATEI_NAME]
 ```
 
-Die Bearbeitung der Tutorials geschieht mit dem [Tutorial Tool von MakeCode](https://makecode.com/tutorial-tool).
+Die Bearbeitung der Tutorials geschieht mit dem [Tutorial Tool von MakeCode](https://makecode.com/tutorial-tool) oder direkt in [MakeCode](https://makecode.calliope.cc/).
 
 Tutorials werden nach folgendem Schema abgelegt:
 
@@ -26,6 +26,7 @@ Folgende Tutorials sind in diesem Repository abgelegt:
 - https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/AnleitungTresor_S6.5
 
 ## Bearbeiten
+
 Die Bearbeitung der Anleitungen findet am Besten in Makecode statt. Alternativ kann auch in diesem Repository gearbeitet werden. Dann müssen jedoch mehr Änderungen manuell durchgeführt werden.
 
 1. Dieses Tutorial in MakeCode öffnen (GitHub Projekt importieren).
