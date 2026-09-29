@@ -36,5 +36,3 @@ Der Calliope merkt, wenn er geschüttelt wird. Man kann also sagen, dass durch e
 
 ## Schritt 5: Anzahl der Schritte zurücksetzen
 Überlegt euch einen Weg, wie man die Anzahl der Schritte auf 0 zurücksetzen kann, ohne dass das gesamte Programm über den Reset-Knopf des Calliopes zurückgesetzt werden muss.
-
-![Calliope mini Stromkreislauf](/.docs/static/tutorials/Stromkreislauf.png)
