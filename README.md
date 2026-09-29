@@ -20,10 +20,11 @@ Modulname_Aufgabe_AB.md
 
 Folgende Tutorials sind in diesem Repository abgelegt:
 
-- https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/AnleitungKompass_B8.5
-- https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/AnleitungSchrittzaehler_B8.5
-- https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/AnleitungTresor_B8.5
-- https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/Anleitung_B8.3
+- https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/Anleitung_S6.3
+- https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/AnleitungKompass_S6.5
+- https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/AnleitungSchrittzaehler_S6.5
+- https://makecode.calliope.cc/#tutorial:github:IT2School-Wifa/Calliope-Anleitungen/AnleitungTresor_S6.5
+
 
 
 ## Lizenz
