@@ -36,7 +36,7 @@ Die Bearbeitung der Anleitungen findet am Besten in Makecode statt. Alternativ k
 5. Neues Release erstellen. "Release für Tutorials optimieren" auswählen.
 
 > [!NOTE]
->  Bilder können aus irgendeinem Grund nicht wie in der [Dokumentation](https://makecode.com/writing-docs/tutorials/basics#bilder) angegeben relativ eingebunden werden. Stattdessen müssen absolute links zum Bild verwendet werden.
+>  Bilder können aus irgendeinem Grund nicht wie in der [Dokumentation](https://makecode.com/writing-docs/tutorials/basics#bilder) angegeben relativ eingebunden werden. Stattdessen müssen absolute links zur Bildquelle verwendet werden.
 > Statt `/static/tutorials/Bild.png` wird `https://github.com/IT2School-Wifa/Calliope-Anleitungen/blob/master/.docs/static/tutorials/Bild.png?raw=true` verwendet.
 
 ## Lizenz
